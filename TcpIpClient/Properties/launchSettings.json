@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "TcpIpClient": {
+      "commandName": "Project"
+    },
+    "newProfile1": {
+      "commandName": "Project"
+    },
+    "newProfile2": {
+      "commandName": "Project"
+    }
+  }
+}
